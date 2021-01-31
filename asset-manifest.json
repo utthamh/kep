@@ -1,32 +1,20 @@
 {
   "files": {
-    "main.css": "/kep/static/css/main.6b885981.chunk.css",
-    "main.js": "/kep/static/js/main.607c4d56.chunk.js",
-    "main.js.map": "/kep/static/js/main.607c4d56.chunk.js.map",
-    "runtime-main.js": "/kep/static/js/runtime-main.48a8cab5.js",
-    "runtime-main.js.map": "/kep/static/js/runtime-main.48a8cab5.js.map",
-    "static/css/2.b3f46bb7.chunk.css": "/kep/static/css/2.b3f46bb7.chunk.css",
-    "static/js/2.0752ce66.chunk.js": "/kep/static/js/2.0752ce66.chunk.js",
-    "static/js/2.0752ce66.chunk.js.map": "/kep/static/js/2.0752ce66.chunk.js.map",
-    "static/js/3.aa66af60.chunk.js": "/kep/static/js/3.aa66af60.chunk.js",
-    "static/js/3.aa66af60.chunk.js.map": "/kep/static/js/3.aa66af60.chunk.js.map",
-    "static/js/4.a4c92cbf.chunk.js": "/kep/static/js/4.a4c92cbf.chunk.js",
-    "static/js/4.a4c92cbf.chunk.js.map": "/kep/static/js/4.a4c92cbf.chunk.js.map",
+    "main.css": "/kep/static/css/main.e77909e6.chunk.css",
+    "main.js": "/kep/static/js/main.4ed17243.chunk.js",
+    "main.js.map": "/kep/static/js/main.4ed17243.chunk.js.map",
+    "runtime-main.js": "/kep/static/js/runtime-main.528f667b.js",
+    "runtime-main.js.map": "/kep/static/js/runtime-main.528f667b.js.map",
+    "static/js/2.c43440c1.chunk.js": "/kep/static/js/2.c43440c1.chunk.js",
+    "static/js/2.c43440c1.chunk.js.map": "/kep/static/js/2.c43440c1.chunk.js.map",
     "index.html": "/kep/index.html",
-    "static/css/2.b3f46bb7.chunk.css.map": "/kep/static/css/2.b3f46bb7.chunk.css.map",
-    "static/css/main.6b885981.chunk.css.map": "/kep/static/css/main.6b885981.chunk.css.map",
-    "static/js/2.0752ce66.chunk.js.LICENSE.txt": "/kep/static/js/2.0752ce66.chunk.js.LICENSE.txt",
-    "static/js/3.aa66af60.chunk.js.LICENSE.txt": "/kep/static/js/3.aa66af60.chunk.js.LICENSE.txt",
-    "static/js/4.a4c92cbf.chunk.js.LICENSE.txt": "/kep/static/js/4.a4c92cbf.chunk.js.LICENSE.txt",
-    "static/media/Kumar_Electricals_Png.3a629226.png": "/kep/static/media/Kumar_Electricals_Png.3a629226.png",
-    "static/media/LetterHeads.92f6f5be.png": "/kep/static/media/LetterHeads.92f6f5be.png",
-    "static/media/logo.103b5fa1.svg": "/kep/static/media/logo.103b5fa1.svg"
+    "static/css/main.e77909e6.chunk.css.map": "/kep/static/css/main.e77909e6.chunk.css.map",
+    "static/js/2.c43440c1.chunk.js.LICENSE.txt": "/kep/static/js/2.c43440c1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48a8cab5.js",
-    "static/css/2.b3f46bb7.chunk.css",
-    "static/js/2.0752ce66.chunk.js",
-    "static/css/main.6b885981.chunk.css",
-    "static/js/main.607c4d56.chunk.js"
+    "static/js/runtime-main.528f667b.js",
+    "static/js/2.c43440c1.chunk.js",
+    "static/css/main.e77909e6.chunk.css",
+    "static/js/main.4ed17243.chunk.js"
   ]
 }
